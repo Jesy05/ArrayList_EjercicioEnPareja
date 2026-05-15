@@ -1,4 +1,4 @@
-package ni.edu.uam;
+package ni.edu.uam.arraylist;
 
 import java.util.ArrayList;
 
